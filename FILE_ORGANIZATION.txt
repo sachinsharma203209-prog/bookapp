@@ -1,0 +1,1 @@
+config/, includes/, api/, admin/, css/, js/, scripts/ and frontend php pages at repo root.
